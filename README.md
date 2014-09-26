@@ -1,4 +1,4 @@
 TutoOC
 ======
 
-Temp repository for the OpenClassroom tutorial
+Repository temporaire pour le tutoriel d'OpenClassroom
