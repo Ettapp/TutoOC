@@ -15,4 +15,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dapibus mauris es
 Rules
 ======
 
+# Rules
+
+## Rules
+
+#### Rules
+
+### Rules
+
 The only accepted files are txt dans markdown files !
